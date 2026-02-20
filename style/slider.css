@@ -1,3 +1,7 @@
 img{
     width: 500px;
+    border: 2px solid tomato;
+}
+body{
+    background-color: cadetblue;
 }
